@@ -77,7 +77,7 @@ public class App {
 
 			//in4
 			String input4 = req.queryParams("input4");
-			Scanner sc4 = new Scanner(input3);
+			Scanner sc4 = new Scanner(input4);
 			sc4.useDelimiter("[;\r\n]+");
 			ArrayList<String> inputList4 = new ArrayList<>();
 			while (sc4.hasNext()) {
