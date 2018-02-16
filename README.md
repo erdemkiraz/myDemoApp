@@ -6,3 +6,5 @@ The App takes 4 paramaters,
 4) List < String > set2
 
 then for each index from index1, add the string with that index from set1 to answer. Then it does the exact thing for set2 and sort them lexicographically. Simply it merges the given indices.
+
+[![Build Status](https://travis-ci.org/erdemkiraz/myDemoApp.svg?branch=master)](https://travis-ci.org/erdemkiraz/myDemoApp)
