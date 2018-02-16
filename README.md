@@ -8,3 +8,5 @@ The App takes 4 paramaters,
 then for each index from index1, add the string with that index from set1 to answer. Then it does the exact thing for set2 and sort them lexicographically. Simply it merges the given indices.
 
 [![Build Status](https://travis-ci.org/erdemkiraz/myDemoApp.svg?branch=master)](https://travis-ci.org/erdemkiraz/myDemoApp)
+
+Demo site: https://fast-castle-77777.herokuapp.com/compute
